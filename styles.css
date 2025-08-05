@@ -2,3 +2,7 @@ body{
     color: rgb(20, 4, 243)
    background: cyan
 }
+
+rgb{
+ border: solid 2px rgb(22,122,198,1);
+}
